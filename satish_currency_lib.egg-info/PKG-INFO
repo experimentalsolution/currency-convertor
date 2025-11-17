@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: satish-currency-lib
+Version: 0.1.0
+Summary: A currency conversion library
+Home-page: https://github.com/experimentalsolution/currency-convertor-tool
+Author: Satish Gupta
+Author-email: mysterysatish@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.x
